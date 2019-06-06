@@ -19,3 +19,21 @@ p {
 .contentBox h1 {
   text-align: center;
 }
+
+.contentBox img {
+  width: 300px;
+  height: auto;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+/* .Charlize, .george, .jerry, .Laura, .Peter, #match {
+  display: none;
+} */
+
+.hidden{
+  display: none;
+}
