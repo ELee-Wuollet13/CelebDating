@@ -24,6 +24,7 @@ p {
   width: 300px;
   height: auto;
   text-align: center;
+  image-orientation: center;
 }
 
 h2 {

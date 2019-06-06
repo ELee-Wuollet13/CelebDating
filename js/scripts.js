@@ -26,7 +26,7 @@ $(document).ready(function() {
          $(".jerry").show();
        }
        else {
-         $(".laura").show();
+         $(".cruella").show();
        }
     }
     else {
